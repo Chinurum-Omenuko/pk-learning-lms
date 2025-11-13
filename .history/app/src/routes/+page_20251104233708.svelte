@@ -1,0 +1,11 @@
+
+<main>
+    
+</main>
+
+<style>
+    body{
+        display: grid;
+        grid-template-columns: 1fr 4fr;
+    }
+</style>
