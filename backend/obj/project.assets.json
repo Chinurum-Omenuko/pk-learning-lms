@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/pk-lms/pk-lms.csproj",
-      "projectName": "pk-lms",
-      "projectPath": "/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/pk-lms/pk-lms.csproj",
+      "projectUniqueName": "/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/backend.csproj",
+      "projectName": "backend",
+      "projectPath": "/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/backend.csproj",
       "packagesPath": "/Users/chinurum/.nuget/packages/",
-      "outputPath": "/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/pk-lms/obj/",
+      "outputPath": "/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/chinurum/.nuget/NuGet/NuGet.Config"
