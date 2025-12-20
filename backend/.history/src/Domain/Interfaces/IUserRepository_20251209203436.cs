@@ -1,0 +1,16 @@
+using System;
+using System.Threading;
+using System.Threading.Tasks;
+using Domain.Entities;
+
+namespace Domain.Repositories
+{
+    public interface IUserRepository
+    {
+        Task<User?> GetByIdAsync(Guid id, CancellationToken ct = default);
+        Task<User?> GetByEmailAsync(ValueObjects.Email email, CancellationToken ct = default);
+        Task AddAsync(User user, CancellationToken ct = default);
+        Task UpdateAsync(User user, CancellationToken ct = default);
+        Task DeleteAsync(Guid id, CancellationToken ct = default);
+    }
+}

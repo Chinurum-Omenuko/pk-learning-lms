@@ -1,0 +1,15 @@
+<RunSettings>
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <CONNECTION_STRING>
+        Host=ep-summer-darkness-a8z961xv-pooler.eastus2.azure.neon.tech;
+Username=neondb_owner;
+Password=npg_wdQt6ca2ezlg;
+Database=neondb;
+SSL Mode=Require;
+Trust Server Certificate=true;
+
+      </CONNECTION_STRING>
+    </EnvironmentVariables>
+  </RunConfiguration>
+</RunSettings>

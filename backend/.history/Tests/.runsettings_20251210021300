@@ -1,0 +1,7 @@
+<RunSettings>
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <DB_CONNECTION_STRING>Host=localhost;Port=5432;Database=testdb;Username=user;Password=pass;</DB_CONNECTION_STRING>
+    </EnvironmentVariables>
+  </RunConfiguration>
+</RunSettings>

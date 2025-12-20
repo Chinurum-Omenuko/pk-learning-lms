@@ -1,0 +1,13 @@
+/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/Src/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/Src/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/Src/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/Src/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/Src/Domain/obj/Debug/net9.0/Domain.sourcelink.json
+/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/Src/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/Src/Domain/bin/Debug/net9.0/Domain.dll
+/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/Src/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/Src/Domain/obj/Debug/net9.0/Domain.dll
+/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/Src/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/Src/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/Src/Domain/obj/Debug/net9.0/ref/Domain.dll
+/Users/chinurum/Desktop/pithonkids/pk-learning-lms/backend/Src/Domain/obj/Debug/net9.0/Domain.csproj.AssemblyReference.cache
